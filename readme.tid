@@ -1,6 +1,6 @@
 created: 20190119024645262
 modified: 20190119031715565
-tags: plugin
+tags: Plugin
 title: $:/plugins/DMTools/NPCNameGenerator/readme
 
 The DMTools Name Generator Plugin is a tool for quickly generating random names for NPCs in a tabletop RPG.  For the purposes of using tiddlywiki for managing a tabletop RPG, this tool will generate a list of names which can be clicked on to create tiddlers.  The Control Panel for this plugin will control the default tags and text of the created NPCs for tagging and templating purposes.

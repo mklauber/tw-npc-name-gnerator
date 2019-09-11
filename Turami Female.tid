@@ -1,11 +1,11 @@
-caption: Humman(Turami) Male
-created: 20190119020321147
-firstnames: Anton Diero Marcon Pieron Rimardo Romero Salazar Umbero
+caption: Humman(Turami) Female
+created: 20190810192813975
+firstnames: Balama Dona Faila jalana  Luisa  Marta  Quara  Selise Vonda
 lastnames: Agosto Astorio Calabra Domine Falone Marivaldi Pisacar Ramondo
-modified: 20190910123051472
-seed: 15:58:00
+modified: 20190910123120255
+seed: 15:29:29
 tags: [[Name Generator]]
-title: $:/plugins/DMTools/Name Generator/Turami Male
+title: $:/plugins/DMTools/Name Generator/Turami Female
 
 <$button>
 <$action-setfield $field="seed" $value=<<now "0hh:0mm:0ss">>/>

@@ -7,7 +7,7 @@
     "Control Panel"
   ],
   "plugin-type": "plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "tags": "[[D&D]]",
   "summary": "Random Name Generator for NPCs",
   "source": "https://github.com/mklauber/tw-npc-name-gnerator",
